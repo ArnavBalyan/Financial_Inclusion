@@ -70,10 +70,3 @@ You are asked to make predictions for each unique id in the test dataset about t
 **Train.csv** is 70% of the data, across the four East African countries (i.e. Kenya, Rwanda, Tanzania, and Uganda)
 
 **Test.csv** is 30% of the complete dataset across the East African countries.
-
-**SubmissionSubmission.csv** is an example of what your submission file should look like. Note that the variable unique_id in the submission file is:
-
- uniqueid + " x " + country name
-The order of the rows do not matter, but the names of the unique_id's must be correct. The column "bank_account" is your prediction of the likelihood of the user having a bank account
-
-**VariableDefinitions.csv** is the full list of variables and their explanations.
